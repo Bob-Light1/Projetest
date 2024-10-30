@@ -1,5 +1,5 @@
 
-   // Récupération des éléments HTML
+   // Récupération des éléments HTML, exemple
    const historique = document.getElementById('historique');
    const transfert = document.getElementById('transfert');
    const situationFamille = document.getElementById('situationFamille');
